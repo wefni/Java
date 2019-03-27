@@ -11,7 +11,9 @@ namespace Harmadik
         Program()
         {
             //elso();
-            szuletes();
+            //szuletes();
+            //Oszt();
+            Prim();
         }
 
         public void elso()
@@ -167,6 +169,79 @@ namespace Harmadik
             int n = Konvert(szam, hossz);
             if (n >= min && n <= max) return n;
             else return 0;
+        }
+
+        public long LKonvert(String szam) {
+            long n = 0;
+            Int64.TryParse(szam, out n);
+
+            return n;
+        }
+        //**********************************************************************************************************************************************************************
+
+
+        public void Oszt() {
+            Console.WriteLine("Kérek két számot!"); //A szám osztói(maradék nélkül)
+            Console.WriteLine("1.Szám: ");
+            long a = LKonvert(Console.ReadLine());
+            Console.WriteLine("2.Szám: ");
+            long b = LKonvert(Console.ReadLine());
+            for (int i = 2; i < a; i++)
+            {
+                if (a % i==0) {
+                    Console.Write("{0} ", i);
+                    if (i % 20 == 0) {
+                        Console.WriteLine("");
+                    }
+                }
+            }
+            for (int i = 2; i < b; i++)
+            {
+                if (b % i == 0)
+                {
+                    Console.Write("{0} ", i);
+                    if (i % 20 == 0)
+                    {
+                        Console.WriteLine("");
+                    }
+                }
+            }
+
+        }
+
+        public void Prim() {
+            Console.WriteLine("Kérek egy számot");
+            Console.Write("Szám: ");
+            
+
+            int szam = Konvert(Console.ReadLine());
+
+            
+            if (isPrim(szam))
+            {
+                Console.WriteLine("A számom prímszám!");
+            }
+            else {
+
+                Console.WriteLine(" A számom nem prímszám!");
+            }
+        }
+
+        public bool isPrim(int szam) {
+            if (szam < 2)
+            {
+                Console.WriteLine("Ez a szám nem prímszám");
+                return false;
+            }
+            for (int i = 2; i < Math.Sqrt(szam); i++)
+            {
+                if (szam % i == 0)
+                {
+                    return false;
+                    
+                }
+            }
+            return true;
         }
 
         static void Main(string[] args)
