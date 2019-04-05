@@ -1,0 +1,51 @@
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe.config
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.pdb
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csprojAssemblyReference.cache
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Properties.Resources.resources
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.GenerateResource.cache
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.CoreCompileInputs.cache
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.exe
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.pdb
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\hu-HU\Projekt Munkaxd.resources.dll
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.resources
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.hu-HU.resources
+C:\Users\halas\OneDrive\Asztali gép\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\hu-HU\Projekt Munkaxd.resources.dll
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe.config
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.pdb
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\hu-HU\Projekt Munkaxd.resources.dll
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csprojAssemblyReference.cache
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.resources
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Properties.Resources.resources
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.hu-HU.resources
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.GenerateResource.cache
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.CoreCompileInputs.cache
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\hu-HU\Projekt Munkaxd.resources.dll
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.exe
+C:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.pdb
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe.config
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.pdb
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\hu-HU\Projekt Munkaxd.resources.dll
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csprojAssemblyReference.cache
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.resources
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Properties.Resources.resources
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.hu-HU.resources
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.GenerateResource.cache
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.CoreCompileInputs.cache
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\hu-HU\Projekt Munkaxd.resources.dll
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.exe
+a:\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.pdb
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe.config
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.exe
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\Projekt Munkaxd.pdb
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\bin\Debug\hu-HU\Projekt Munkaxd.resources.dll
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.resources
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Properties.Resources.resources
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt_Munkaxd.Form1.hu-HU.resources
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.GenerateResource.Cache
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.csproj.CoreCompileInputs.cache
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\hu-HU\Projekt Munkaxd.resources.dll
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.exe
+S:\excel xd\Fejlesztoinaplo 19.04.04\C#\Projekt\Projekt Munkaxd\Projekt Munkaxd\obj\Debug\Projekt Munkaxd.pdb
