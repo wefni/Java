@@ -1,0 +1,11 @@
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\bin\Debug\AAAAAAAAAAA.exe.config
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\bin\Debug\AAAAAAAAAAA.exe
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\bin\Debug\AAAAAAAAAAA.pdb
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.csprojResolveAssemblyReference.cache
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.frmMain.resources
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.Properties.Resources.resources
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.csproj.GenerateResource.Cache
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.csproj.CoreCompileInputs.cache
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.exe
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.pdb
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\bin\Debug\Termekek.csv
