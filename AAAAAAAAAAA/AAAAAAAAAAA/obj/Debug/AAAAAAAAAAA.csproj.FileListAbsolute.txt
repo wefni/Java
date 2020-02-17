@@ -9,3 +9,4 @@ S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.csproj.CoreC
 S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.exe
 S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.pdb
 S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\bin\Debug\Termekek.csv
+S:\C# 11\Program gyak\AAAAAAAAAAA\AAAAAAAAAAA\obj\Debug\AAAAAAAAAAA.Registry.resources

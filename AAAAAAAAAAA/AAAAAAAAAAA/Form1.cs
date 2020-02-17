@@ -52,7 +52,9 @@ namespace AAAAAAAAAAA
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-
+            Registry reg = new Registry();
+            reg.termekek = termekek;
+            reg.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
