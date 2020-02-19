@@ -14,7 +14,7 @@ namespace AAAAAAAAAAA
     public partial class frmMain : Form
     {
         public float font_size = 20;    
-        public List<Termek> termekek = new List<Termek>();
+        public static List<Termek> termekek = new List<Termek>();
         List<string> adatok = new List<string>();
 
         public frmMain()
@@ -83,6 +83,12 @@ namespace AAAAAAAAAAA
 
                 }
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Add add = new Add();
+            add.ShowDialog();
         }
     }
 }

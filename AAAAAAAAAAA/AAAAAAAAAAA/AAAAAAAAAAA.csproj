@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
       <DependentUpon>Registry.cs</DependentUpon>
     </Compile>
     <Compile Include="Termek.cs" />
+    <EmbeddedResource Include="Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

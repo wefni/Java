@@ -12,9 +12,20 @@ namespace AAAAAAAAAAA
 {
     public partial class Add : Form
     {
+        List<string> tipusok = new List<string>();
         public Add()
         {
             InitializeComponent();
+        }
+
+        private void Add_Load(object sender, EventArgs e)
+        {
+            foreach (Termek t in frmMain.termekek)
+            {
+                
+
+            }
+            cmbTipus.DataSource = tipusok;
         }
     }
 }
