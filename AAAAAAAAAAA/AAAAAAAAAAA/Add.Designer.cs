@@ -29,16 +29,17 @@
         private void InitializeComponent()
         {
             this.tlpMain = new System.Windows.Forms.TableLayoutPanel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.cmbTipus = new System.Windows.Forms.ComboBox();
             this.txtName = new System.Windows.Forms.TextBox();
             this.mtAr = new System.Windows.Forms.MaskedTextBox();
             this.mtRaktar = new System.Windows.Forms.MaskedTextBox();
             this.mtBeszerzes = new System.Windows.Forms.MaskedTextBox();
+            this.btnFelvetel = new System.Windows.Forms.Button();
             this.tlpMain.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,6 +61,7 @@
             this.tlpMain.Controls.Add(this.mtAr, 1, 2);
             this.tlpMain.Controls.Add(this.mtRaktar, 1, 3);
             this.tlpMain.Controls.Add(this.mtBeszerzes, 1, 4);
+            this.tlpMain.Controls.Add(this.btnFelvetel, 4, 4);
             this.tlpMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tlpMain.Location = new System.Drawing.Point(0, 0);
             this.tlpMain.Name = "tlpMain";
@@ -72,44 +74,18 @@
             this.tlpMain.Size = new System.Drawing.Size(704, 434);
             this.tlpMain.TabIndex = 0;
             // 
-            // label1
+            // label21
             // 
-            this.label1.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.label1.AutoSize = true;
-            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 86);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Típus";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label6
-            // 
-            this.label6.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.label6.AutoSize = true;
-            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label6.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label6.Location = new System.Drawing.Point(3, 86);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(99, 86);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Név";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label11
-            // 
-            this.label11.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.label11.AutoSize = true;
-            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label11.Location = new System.Drawing.Point(3, 172);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(99, 86);
-            this.label11.TabIndex = 10;
-            this.label11.Text = "Ár";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label21.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.label21.AutoSize = true;
+            this.label21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label21.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label21.Location = new System.Drawing.Point(3, 344);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(99, 90);
+            this.label21.TabIndex = 20;
+            this.label21.Text = "Beszerzés";
+            this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label16
             // 
@@ -124,18 +100,44 @@
             this.label16.Text = "Raktár";
             this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label21
+            // label11
             // 
-            this.label21.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.label21.AutoSize = true;
-            this.label21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label21.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label21.Location = new System.Drawing.Point(3, 344);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(99, 90);
-            this.label21.TabIndex = 20;
-            this.label21.Text = "Beszerzés";
-            this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label11.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.label11.AutoSize = true;
+            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label11.Location = new System.Drawing.Point(3, 172);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(99, 86);
+            this.label11.TabIndex = 10;
+            this.label11.Text = "Ár";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label6
+            // 
+            this.label6.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.label6.AutoSize = true;
+            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label6.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label6.Location = new System.Drawing.Point(3, 86);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(99, 86);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Név";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label1
+            // 
+            this.label1.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.label1.AutoSize = true;
+            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Location = new System.Drawing.Point(3, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(99, 86);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Típus";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // cmbTipus
             // 
@@ -187,6 +189,17 @@
             this.mtBeszerzes.Size = new System.Drawing.Size(127, 31);
             this.mtBeszerzes.TabIndex = 25;
             // 
+            // btnFelvetel
+            // 
+            this.btnFelvetel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnFelvetel.Location = new System.Drawing.Point(494, 347);
+            this.btnFelvetel.Name = "btnFelvetel";
+            this.btnFelvetel.Size = new System.Drawing.Size(207, 84);
+            this.btnFelvetel.TabIndex = 26;
+            this.btnFelvetel.Text = "button1";
+            this.btnFelvetel.UseVisualStyleBackColor = true;
+            this.btnFelvetel.Click += new System.EventHandler(this.btnFelvetel_Click);
+            // 
             // Add
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -215,5 +228,6 @@
         private System.Windows.Forms.MaskedTextBox mtAr;
         private System.Windows.Forms.MaskedTextBox mtRaktar;
         private System.Windows.Forms.MaskedTextBox mtBeszerzes;
+        private System.Windows.Forms.Button btnFelvetel;
     }
 }
