@@ -1,8 +1,0 @@
-C:\Users\user\source\repos\sudokuCLI\bin\Debug\sudokuCLI.exe.config
-C:\Users\user\source\repos\sudokuCLI\bin\Debug\sudokuCLI.exe
-C:\Users\user\source\repos\sudokuCLI\bin\Debug\sudokuCLI.pdb
-C:\Users\user\source\repos\sudokuCLI\obj\Debug\sudokuCLI.csprojAssemblyReference.cache
-C:\Users\user\source\repos\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\sudokuCLI\obj\Debug\sudokuCLI.exe
-C:\Users\user\source\repos\sudokuCLI\obj\Debug\sudokuCLI.pdb
-C:\Users\user\source\repos\sudokuCLI\bin\Debug\feladvanyok.txt
