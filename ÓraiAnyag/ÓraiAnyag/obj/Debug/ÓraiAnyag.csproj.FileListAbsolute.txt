@@ -1,7 +1,0 @@
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\bin\Debug\ÓraiAnyag.exe.config
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\bin\Debug\ÓraiAnyag.exe
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\bin\Debug\ÓraiAnyag.pdb
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\obj\Debug\ÓraiAnyag.csprojResolveAssemblyReference.cache
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\obj\Debug\ÓraiAnyag.csproj.CoreCompileInputs.cache
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\obj\Debug\ÓraiAnyag.exe
-S:\c#\2019.03.20\ÓraiAnyag\ÓraiAnyag\obj\Debug\ÓraiAnyag.pdb
